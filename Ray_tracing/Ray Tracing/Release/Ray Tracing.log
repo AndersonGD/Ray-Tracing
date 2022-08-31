@@ -1,0 +1,10 @@
+﻿  Objects.cpp
+  RayTraceDemo.cpp
+  Rays.cpp
+  Generating code
+  3 of 325 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    7 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Ray Tracing.vcxproj -> C:\Users\I848571\Documents\UNISINOS\Técnicas Avançadas de Computação Gráfica\RayTracing_PROJETOGA\RayTracing-master\Ray_tracing\Ray Tracing\Release\Ray Tracing.exe
+  Ray Tracing.vcxproj -> C:\Users\I848571\Documents\UNISINOS\Técnicas Avançadas de Computação Gráfica\RayTracing_PROJETOGA\RayTracing-master\Ray_tracing\Ray Tracing\Release\Ray Tracing.pdb (Full PDB)
